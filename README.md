@@ -1,6 +1,8 @@
 
+<br>![Black and White Minimalist Business Mouse Pad (1)](https://github.com/urbanwolf1804/100Days100Projects-Javascript/assets/70969429/d4754157-f344-435c-8a09-c7b8df9b23ea)
 # I started this challenge for what reason?
-<br>
+
+
 As a coder, I believe it's important to constantly push myself to improve my skills and expand my knowledge. One of the best ways to do this is by taking on challenges that require me to step out of my comfort zone and explore new areas of programming.
 
 That's why I decided to embark on a 30-day, 30-Javascript project challenge. This challenge is an opportunity for me to commit to daily practice and push my limits. By taking on a new project every day, I'll be forced to think creatively and approach problems in different ways, which will help me develop new skills and expand my knowledge of the language.
